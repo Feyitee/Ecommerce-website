@@ -1036,6 +1036,10 @@ h1,h2,h3,h4,h5,h6{
   --tw-bg-opacity: 0.6;
 }
 
+.group:hover .group-hover\:bg-opacity-50{
+  --tw-bg-opacity: 0.5;
+}
+
 .group:hover .group-hover\:opacity-100{
   opacity: 1;
 }
